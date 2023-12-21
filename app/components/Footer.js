@@ -29,6 +29,7 @@ const Footer = () => {
             <h2 className="text-lg md:text-xl font-bold mb-2">Horário de Funcionamento</h2>
             <hr className="my-2 border-blue-400 border" />
             <p>Segunda a sábado das 08:00h às 20:00h</p>
+            <p>Feriados das 08:00h às 14:00h</p>
           </div>
 
           <div className="mb-4 md:mb-0 text-center md:text-left mx-auto">
@@ -44,7 +45,7 @@ const Footer = () => {
 
             <div className="flex flex-col space-y-2">
               <button className="bg-blue-500 text-white hover:bg-white hover:text-blue-500 px-4 py-2 rounded flex justify-center items-center">
-                <FaInstagram className='mr-2' /><a target="_blank" href='https://www.instagram.com/supermercadodafamilia319/'>Instagram</a>
+                <FaInstagram className='mr-2' /><a target="_blank" href='https://www.instagram.com/farmaciadotrabalhador319/'>Instagram</a>
               </button>
               <button className="bg-blue-500 text-white hover:bg-white hover:text-blue-500 px-4 py-2 rounded flex justify-center items-center">
                 <FaFacebook className='mr-2' /><a target="_blank" href='https://www.facebook.com/profile.php?id=61554251468081'>Facebook</a>

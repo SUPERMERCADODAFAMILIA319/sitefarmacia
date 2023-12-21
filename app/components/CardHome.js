@@ -17,7 +17,7 @@ const CardHome = ({ src }) => {
           />
         </div>
         <header className='items-center justify-center flex flex-col'>
-          <h2 className='font-bold text-blue-600'>Supermercado da Família</h2>
+          <h2 className='font-bold text-blue-600 text-center'>Farmácia do Trabalhador e da Família</h2>
           <h4 className='font-bold pb-3'>Brasília - DF</h4>
         </header>
         <div>
