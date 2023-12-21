@@ -5,7 +5,7 @@ import React from 'react';
 
 const CardHome = ({ src }) => {
   return (
-    <a target="_blank"  href='https://gothru.co/Pd7ihYJRy?index=scene_16&hlookat=347&vlookat=-4&fov=120'>
+    <a target="_blank" >
       <div className='flex flex-col items-center bg-white hover:bg-gray-200 rounded-3xl w-full md:w-[230px]'>
         <div className='relative'>
           <Image
