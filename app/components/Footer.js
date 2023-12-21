@@ -29,7 +29,6 @@ const Footer = () => {
             <h2 className="text-lg md:text-xl font-bold mb-2">Horário de Funcionamento</h2>
             <hr className="my-2 border-blue-400 border" />
             <p>Segunda a sábado das 08:00h às 20:00h</p>
-            <p>Domingos e feriados das 08:00h às 14:00h</p>
           </div>
 
           <div className="mb-4 md:mb-0 text-center md:text-left mx-auto">
