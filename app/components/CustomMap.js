@@ -4,7 +4,7 @@ import React from 'react';
 const CustomMap = () => {
   const latitude = -15.8939869;
   const longitude = -48.1132804;
-  const link = "https://www.google.com.br/maps/place/Supermercado+da+Fam%C3%ADlia/@-15.8939869,-48.1132804,17z/data=!3m1!4b1!4m6!3m5!1s0x935bd3950a13070d:0xc572d81059a7ae9!8m2!3d-15.8939869!4d-48.1132804!16s%2Fg%2F11qfz98v1j?entry=ttu";
+  const link = "https://acesse.one/C5VNd";
 
   return (
     <div style={{ position: 'relative' }}>
