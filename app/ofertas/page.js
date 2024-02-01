@@ -23,14 +23,6 @@ export default function Ofertas() {
           className='rounded-lg shadow-lg'
 
         />
-
-        <Image
-          src="/images/tabloide2.png"
-          height={600}
-          width={450}
-          alt="tabloide"
-          className='rounded-lg shadow-lg'
-        />
       </div>
     </div>
   )
